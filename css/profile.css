@@ -1,10 +1,27 @@
 /* Profile Page Styles */
+*
+*{
+    margin: 0;
+    padding: 0;
+}
+h4{
+  text-align: center;
+}
+
+body{
+    width: 100%;
+    background: linear-gradient(#141e30, #243b55);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
 
 .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
   
   h1 {
     text-align: center;
