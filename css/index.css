@@ -1,25 +1,25 @@
 .form-box {
-    max-width: 300px;
+    max-width: 400px;
     background: linear-gradient(#e6e6fa,#fff);
     overflow: hidden;
     border-radius: 16px;
     color: #010101;
     box-align: left;
-    left: 50px;
+    left: 30px;
     box-shadow:2px 2px 4px 0px #c9a0dc;
   }
   body{
     max-width: 100%;
 
     background-color: #e6e6fa;
-    padding-left: 60%;
-    padding-top: 40%;
+    padding-left: 36%;
+    padding-top: 5%;
   }
   .form {
     position: relative;
     display: flex;
     flex-direction: column;
-    padding: 32px 24px 24px;
+    padding: 64px 48px 48px;
     gap: 15px;
     box-align: center;
     
